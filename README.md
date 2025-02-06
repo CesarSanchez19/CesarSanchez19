@@ -7,7 +7,6 @@
 ### Actualmente estoy fortaleciendo mis habilidades y aprendiendo desde cero en:
 <div style="display: flex; gap: 50px;">
   <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
-
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
@@ -23,7 +22,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+    <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
   </a>
   <a href="https://angular.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular"/>
