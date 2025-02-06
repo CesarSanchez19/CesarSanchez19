@@ -1,12 +1,13 @@
-- 👋 Hola, soy @MrCiscoST19, también conocido como César David Sánchez Trejo.  
+- 👋 Hola, soy @MrCiscoST19, @CesarSanchez19, también conocido como César David Sánchez Trejo.  
 - 👀 Me apasiona el desarrollo web, la programación, redes y el aprendizaje continuo de nuevas tecnologías.  
 - 💞️ Busco colaborar en proyectos que impulsen mi crecimiento profesional como desarrollador.  
 - 📫 Cómo contactarme: cesardavidst19@gmail.com.  
-- 😄 Pronombres: Él.  
+- 😄 Pronombres: Él o MrCisco .  
 - ⚡ Dato curioso: Siempre estoy dispuesto a enfrentar nuevos desafíos para encontrar soluciones creativas.
 ### Actualmente estoy fortaleciendo mis habilidades y aprendiendo desde cero en:
 <div style="display: flex; gap: 50px;">
   <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
