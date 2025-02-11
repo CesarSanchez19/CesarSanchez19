@@ -1,4 +1,4 @@
-- 👋 Hola, soy @MrCiscoST19, @CesarSanchez19, también conocido como César David Sánchez Trejo.  
+- 👋 Hola, soy @MrCiscoST19, @CesarSanchez19, también conocido como César Sánchez. 
 - 👀 Me apasiona el desarrollo web, la programación, redes y el aprendizaje continuo de nuevas tecnologías.  
 - 💞️ Busco colaborar en proyectos que impulsen mi crecimiento profesional como desarrollador.  
 - 📫 Cómo contactarme: cesardavidst19@gmail.com.  
