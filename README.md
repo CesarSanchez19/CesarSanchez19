@@ -1,40 +1,71 @@
-- 👋 Hola, soy @MrCiscoST19, @CesarSanchez19, también conocido como César Sánchez. 
-- 👀 Me apasiona el desarrollo web, la programación, redes y el aprendizaje continuo de nuevas tecnologías.  
-- 💞️ Busco colaborar en proyectos que impulsen mi crecimiento profesional como desarrollador.  
-- 📫 Cómo contactarme: cesardavidst19@gmail.com.  
-- 😄 Pronombres: Él o MrCisco .  
-- ⚡ Dato curioso: Siempre estoy dispuesto a enfrentar nuevos desafíos para encontrar soluciones creativas.
-### Actualmente estoy fortaleciendo mis habilidades y aprendiendo desde cero en:
-<div style="display: flex; gap: 50px;">
-  <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src
-="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
-  </a>
-  <a href="https://ionicframework.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" alt="Ionic" title="Ionic"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-  </a>
+# 👋 Hola, soy César Sánchez
+
+**Estudiante de Ingeniería en Desarrollo de Software Multiplataforma**
+
+Desarrollador en formación apasionado por la tecnología. Me encuentro fortaleciendo mis habilidades desde los fundamentos, con gran capacidad de adaptación y compromiso en cada proyecto que colaboro.
+
+📧 **Contacto:** cesardavidst19@gmail.com
+
+---
+
+## 🛠️ Tecnologías en Aprendizaje
+
+> Actualmente desarrollo conocimientos básicos y fortalezco habilidades en:
+
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" alt="Ionic"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" height="40" alt="Elixir"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" width="40" height="40" alt="Phoenix"/>
+</p>
+
+**Bases de Datos**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+</p>
+
+**Herramientas**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+---
+
+## 🎯 En este momento
+
+📚 Construyendo bases sólidas en desarrollo full-stack  
+🚀 Aprendiendo nuevas tecnologías con disciplina constante  
+💪 Enfrentando desafíos para crecer profesionalmente  
+🤝 Buscando oportunidades de colaboración para aprender
+
+---
+
+<div align="center">
+  
+**"Adaptabilidad, compromiso y responsabilidad en cada paso de mi aprendizaje"**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MrCiscoST19-181717?style=flat&logo=github)](https://github.com/MrCiscoST19)
+[![Email](https://img.shields.io/badge/Email-cesardavidst19%40gmail.com-D14836?style=flat&logo=gmail)](mailto:cesardavidst19@gmail.com)
+
 </div>
