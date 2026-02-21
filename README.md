@@ -1,6 +1,6 @@
 # 👋 Hola, soy César Sánchez
 
-**Estudiante de Ingeniería en Desarrollo de Software Multiplataforma**
+**Estudiante de  Ingeniería en Desarrollo y Gestión de Software**
 
 Desarrollador en formación apasionado por la tecnología. Me encuentro fortaleciendo mis habilidades desde los fundamentos, con gran capacidad de adaptación y compromiso en cada proyecto que colaboro.
 
@@ -16,16 +16,17 @@ Desarrollador en formación apasionado por la tecnología. Me encuentro fortalec
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40" alt="Ionic"/>
+  <img src="https://cdn.simpleicons.org/expo/000000" width="40" height="40" alt="Expo"/>
 </p>
 
 **Backend**
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
@@ -52,6 +53,19 @@ Desarrollador en formación apasionado por la tecnología. Me encuentro fortalec
 
 ---
 
+## 📡 Redes y Internet de las Cosas
+
+>  Conocimientos básicos en redes, simulación y análisis de tráfico:
+
+<p> 
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Redes-Subnetting%20%7C%20Routing%20%7C%20TCP/IP-0A66C2?style=flat" /> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+</p>
+
+---
+
 ## 🎯 En este momento
 
 📚 Construyendo bases sólidas en desarrollo full-stack  
@@ -67,5 +81,6 @@ Desarrollador en formación apasionado por la tecnología. Me encuentro fortalec
 
 [![GitHub](https://img.shields.io/badge/GitHub-MrCiscoST19-181717?style=flat&logo=github)](https://github.com/MrCiscoST19)
 [![Email](https://img.shields.io/badge/Email-cesardavidst19%40gmail.com-D14836?style=flat&logo=gmail)](mailto:cesardavidst19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar%20Sanchez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-david-sanchez-trejo-7924103b2/)
 
 </div>
