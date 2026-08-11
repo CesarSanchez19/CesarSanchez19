@@ -1,11 +1,15 @@
 # 👋 Hola, soy César Sánchez
 
-**Estudiante de  Ingeniería en Desarrollo y Gestión de Software**
+**Estudiante de Ingeniería en Desarrollo y Gestión de Software**
 
-Desarrollador en formación apasionado por la tecnología. Me encuentro fortaleciendo mis habilidades desde los fundamentos, con gran capacidad de adaptación y compromiso en cada proyecto que colaboro.
+Desarrollador en formación apasionado por la tecnología. Me encuentro fortaleciendo mis habilidades desde los fundamentos, con gran capacidad de adaptación y compromiso en cada proyecto en el que colaboro.
 
-📧 **Contacto:** cesardavidst19@gmail.com
-🌐 **Portafolio:** [🚀 Dominio principal](https://cesar-sanchez-portfolio.galetics.lat/) · [🌐 Cloudflare](https://my-personal-portfolio-frontend.2302073.workers.dev/portfolio)
+📧 **Contacto:** [cesardavidst19@gmail.com](mailto:cesardavidst19@gmail.com)
+
+🌐 **Portafolio:**
+
+* [🚀 Ver portafolio — Dominio principal](https://cesar-sanchez-portfolio.galetics.lat/)
+* [🌐 Ver portafolio — Cloudflare](https://my-personal-portfolio-frontend.2302073.workers.dev/portfolio)
 
 ---
 
