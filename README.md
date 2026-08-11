@@ -5,6 +5,7 @@
 Desarrollador en formación apasionado por la tecnología. Me encuentro fortaleciendo mis habilidades desde los fundamentos, con gran capacidad de adaptación y compromiso en cada proyecto que colaboro.
 
 📧 **Contacto:** cesardavidst19@gmail.com
+🌐 **Portafolio:** [🚀 Dominio principal](https://cesar-sanchez-portfolio.galetics.lat/) · [🌐 Cloudflare](https://my-personal-portfolio-frontend.2302073.workers.dev/portfolio)
 
 ---
 
